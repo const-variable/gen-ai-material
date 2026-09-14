@@ -1,0 +1,509 @@
+[
+  {
+    "Article_ID": 1,
+    "Title": "Ad sales boost Time Warner profit",
+    "Article_Text": "Quarterly profits at US media giant TimeWarner jumped 76% to $1.13bn (£600m) for the three months to December, from $639m year-earlier.  The firm, which is now one of the biggest investors in Google, ...",
+    "Detected_Topic": "Business",
+    "Summary": "TimeWarner's quarterly profits jumped 76% to $1.13bn, driven by high-speed internet connections and advert sales. The company's film division saw profits slump 27% due to box-office flops. TimeWarner is projecting operating earnings growth of around 5% for 2005.",
+    "Key_Entities": [
+      "Richard Parsons",
+      "TimeWarner",
+      "Google",
+      "Warner Bros",
+      "AOL",
+      "SEC",
+      "Bertelsmann",
+      "Lord of the Rings",
+      "Alexander",
+      "Catwoman"
+    ]
+  },
+  {
+    "Article_ID": 2,
+    "Title": "Dollar gains on Greenspan speech",
+    "Article_Text": "The dollar has hit its highest level against the euro in almost three months after the Federal Reserve head said the US trade deficit is set to stabilise.  And Alan Greenspan highlighted the US govern...",
+    "Detected_Topic": "Business",
+    "Summary": "The dollar has reached its highest level against the euro in almost three months after Federal Reserve Chairman Alan Greenspan's speech, citing a stabilizing US trade deficit and government willingness to curb spending. The dollar's value has been affected by concerns about the deficit and China's currency peg. The US Federal Reserve's interest rate decision has also contributed to the dollar's increase.",
+    "Key_Entities": [
+      "Alan Greenspan",
+      "Federal Reserve",
+      "Bank of America",
+      "China",
+      "G7",
+      "US",
+      "Europe",
+      "White House"
+    ]
+  },
+  {
+    "Article_ID": 3,
+    "Title": "Yukos unit buyer faces loan claim",
+    "Article_Text": "The owners of embattled Russian oil giant Yukos are to ask the buyer of its former production unit to pay back a $900m (£479m) loan.  State-owned Rosneft bought the Yugansk unit for $9.3bn in a sale f...",
+    "Detected_Topic": "Business",
+    "Summary": "The owners of Yukos are asking the buyer of its former production unit, Rosneft, to repay a $900m loan, as Rosneft faces similar repayment demands from foreign banks. The loan was secured by Yugansk, which was sold to Rosneft in a sale forced by Russia to settle a tax claim. Rosneft intends to take action against Yukos to recover tax claims and debts.",
+    "Key_Entities": [
+      "Menatep Group",
+      "Rosneft",
+      "Yukos",
+      "Mikhail Khodorkovsky",
+      "Jamie Firestone",
+      "US",
+      "Moscow",
+      "Russia",
+      "Yugansk"
+    ]
+  },
+  {
+    "Article_ID": 4,
+    "Title": "High fuel prices hit BA's profits",
+    "Article_Text": "British Airways has blamed high fuel prices for a 40% drop in profits.  Reporting its results for the three months to 31 December 2004, the airline made a pre-tax profit of £75m ($141m) compared with ...",
+    "Detected_Topic": "Business",
+    "Summary": "British Airways reported a 40% drop in profits due to high fuel prices, but still beat market expectations. The airline expects a rise in full-year revenues and has introduced fuel surcharges to offset increased costs. BA's shares closed up four pence at 274.5 pence.",
+    "Key_Entities": [
+      "Rod Eddington",
+      "Dresdner Kleinwort Wasserstein",
+      "Mike Powell",
+      "BA",
+      "Martin Broughton",
+      "BNP Paribas",
+      "Nick Van den Brul"
+    ]
+  },
+  {
+    "Article_ID": 5,
+    "Title": "Pernod takeover talk lifts Domecq",
+    "Article_Text": "Shares in UK drinks and food firm Allied Domecq have risen on speculation that it could be the target of a takeover by France's Pernod Ricard.  Reports in the Wall Street Journal and the Financial Tim...",
+    "Detected_Topic": "Business",
+    "Summary": "Shares in UK drinks and food firm Allied Domecq have risen on speculation that it could be the target of a takeover by France's Pernod Ricard. Pernod is seeking acquisitions but refused to comment on specifics. Allied Domecq has a capitalisation of £5.7bn, while Pernod has a market value of 7.5bn euros.",
+    "Key_Entities": [
+      "Pernod Ricard",
+      "Allied Domecq",
+      "Wall Street Journal",
+      "Financial Times",
+      "Seagram",
+      "Diageo",
+      "LVMH",
+      "Glenmorangie",
+      "Jacob's Creek",
+      "Chivas Regal",
+      "Havana Club",
+      "Malibu",
+      "Courvoisier",
+      "Stolichnaya",
+      "Ballantine's",
+      "Dunkin' Donuts",
+      "Baskin-Robbins",
+      "Scotland",
+      "Europe"
+    ]
+  },
+  {
+    "Article_ID": 6,
+    "Title": "Japan narrowly escapes recession",
+    "Article_Text": "Japan's economy teetered on the brink of a technical recession in the three months to September, figures show.  Revised figures indicated growth of just 0.1% - and a similar-sized contraction in the p...",
+    "Detected_Topic": "Business",
+    "Summary": "Japan's economy experienced a technical recession in the three months to September, with revised figures showing 0.1% growth and a similar-sized contraction in the previous quarter.",
+    "Key_Entities": [
+      "Heizo Takenaka",
+      "Lehman Brothers",
+      "Japan"
+    ]
+  },
+  {
+    "Article_ID": 7,
+    "Title": "Jobs growth still slow in the US",
+    "Article_Text": "The US created fewer jobs than expected in January, but a fall in jobseekers pushed the unemployment rate to its lowest level in three years.  According to Labor Department figures, US firms added onl...",
+    "Detected_Topic": "Business",
+    "Summary": "The US created fewer jobs than expected in January, but the unemployment rate fell to its lowest level in three years. The job gains were below market expectations, but still pushed the unemployment rate down to 5.2%. The administration's first term jobs record ended in positive territory.",
+    "Key_Entities": [
+      "George W. Bush",
+      "Herbert Hoover",
+      "BMO Financial Group",
+      "ClearView Economics"
+    ]
+  },
+  {
+    "Article_ID": 8,
+    "Title": "India calls for fair trade rules",
+    "Article_Text": "India, which attends the G7 meeting of seven leading industrialised nations on Friday, is unlikely to be cowed by its newcomer status.  In London on Thursday ahead of the meeting, India's finance mini...",
+    "Detected_Topic": "Politics",
+    "Summary": "India's finance minister, Palaniappan Chidambaram, criticized the restrictive trade policies of the G7 nations and called for reform of the United Nations, the World Bank, and the IMF. He also expressed support for floating exchange rates to help countries cope with economic shocks. The IMF warned that India's budget deficit was too large and would hamper the country's economic growth.",
+    "Key_Entities": [
+      "Palaniappan Chidambaram",
+      "Gordon Brown",
+      "United Nations",
+      "World Bank",
+      "IMF",
+      "G7",
+      "China",
+      "India",
+      "US",
+      "Brazil",
+      "South Africa",
+      "Russia"
+    ]
+  },
+  {
+    "Article_ID": 9,
+    "Title": "Ethiopia's crop production up 24%",
+    "Article_Text": "Ethiopia produced 14.27 million tonnes of crops in 2004, 24% higher than in 2003 and 21% more than the average of the past five years, a report says.  In 2003, crop production totalled 11.49 million t...",
+    "Detected_Topic": "Business",
+    "Summary": "Ethiopia's crop production increased by 24% in 2004 compared to 2003, with good rains, fertilizers, and improved seeds contributing to the rise. However, 2.2 million Ethiopians still need emergency assistance, and the country will require additional food aid. The Food and Agriculture Organisation recommends buying food assistance locally to support domestic markets and farmers.",
+    "Key_Entities": [
+      "Henri Josserand",
+      "Food and Agriculture Organisation",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Article_ID": 10,
+    "Title": "Court rejects $280bn tobacco case",
+    "Article_Text": "A US government claim accusing the country's biggest tobacco companies of covering up the effects of smoking has been thrown out by an appeal court.  The demand for $280bn (£155bn) - filed by the Clin...",
+    "Detected_Topic": "Politics",
+    "Summary": "A US government claim accusing tobacco companies of covering up the effects of smoking has been rejected by an appeal court, with the court ruling that the case could not be brought under federal anti-racketeering laws.",
+    "Key_Entities": [
+      "Clinton",
+      "Altria Group",
+      "RJ Reynolds Tobacco",
+      "Lorillard Tobacco",
+      "Liggett Group",
+      "Brown and Williamson",
+      "US",
+      "District of Columbia",
+      "Washington"
+    ]
+  },
+  {
+    "Article_ID": 11,
+    "Title": "Ask Jeeves tips online ad revival",
+    "Article_Text": "Ask Jeeves has become the third leading online search firm this week to thank a revival in internet advertising for improving fortunes.  The firm's revenue nearly tripled in the fourth quarter of 2004...",
+    "Detected_Topic": "Business",
+    "Summary": "Ask Jeeves' revenue nearly tripled in the fourth quarter of 2004, exceeding $86m, due to a revival in internet advertising. This trend is also seen in rival Google and Yahoo, which earned $204m and $187m respectively. However, the shares of both Ask Jeeves and Doubleclick fell by 4% due to excessive expectations.",
+    "Key_Entities": []
+  },
+  {
+    "Article_ID": 12,
+    "Title": "Indonesians face fuel price rise",
+    "Article_Text": "Indonesia's government has confirmed it is considering raising fuel prices by as much as 30%.  Millions of Indonesians use kerosene for basic cooking, and prices have been heavily subsidised for years...",
+    "Detected_Topic": "Politics",
+    "Summary": "Indonesia's government is considering raising fuel prices by up to 30% to curb subsidies and redirect funds to aid programmes for the poor. The move comes after the government spent a significant amount on fuel subsidies in 2004. A potential price hike is expected to face public backlash.",
+    "Key_Entities": [
+      "Susilo Bambang Yudhoyono",
+      "Indonesia",
+      "Aceh",
+      "Sri Mulyani Indrawati",
+      "Megawati Sukarnoputri",
+      "BBC",
+      "Rachel Harvey"
+    ]
+  },
+  {
+    "Article_ID": 13,
+    "Title": "Peugeot deal boosts Mitsubishi",
+    "Article_Text": "Struggling Japanese car maker Mitsubishi Motors has struck a deal to supply French car maker Peugeot with 30,000 sports utility vehicles (SUV).  The two firms signed a Memorandum of Understanding, and...",
+    "Detected_Topic": "Business",
+    "Summary": "Mitsubishi Motors has agreed to supply Peugeot with 30,000 SUVs, with production to take place in Japan, as the company seeks to boost sales and reduce losses.",
+    "Key_Entities": [
+      "Takashi Nishioka",
+      "Mitsubishi Motors",
+      "Peugeot",
+      "DaimlerChrylser",
+      "Nissan Motor",
+      "Japan",
+      "Europe"
+    ]
+  },
+  {
+    "Article_ID": 14,
+    "Title": "Telegraph newspapers axe 90 jobs",
+    "Article_Text": "The Daily and Sunday Telegraph newspapers are axing 90 journalist jobs - 17% of their editorial staff.  The Telegraph Group says the cuts are needed to fund an £150m investment in new printing facilit...",
+    "Detected_Topic": "Business",
+    "Summary": "The Daily and Sunday Telegraph newspapers are cutting 90 journalist jobs, 17% of their editorial staff, to fund an £150m investment in new printing facilities. The National Union of Journalists has called for the management to recall the notice of redundancy. The company had ignored the 90-day consultation period required for companies planning more than 10 redundancies.",
+    "Key_Entities": [
+      "National Union of Journalists",
+      "Jeremy Dear",
+      "Barclay twins",
+      "Frederick Barclay",
+      "David Barclay",
+      "Hollinger International",
+      "Lord Conrad Black",
+      "Murdoch MacLennan",
+      "The Daily Telegraph",
+      "The Sunday Telegraph",
+      "The Guardian",
+      "News Corp",
+      "News International",
+      "Trinity Mirror",
+      "Daily Mail & General Trust"
+    ]
+  },
+  {
+    "Article_ID": 15,
+    "Title": "Air passengers win new EU rights",
+    "Article_Text": "Air passengers who are unable to board their flights because of overbooking, cancellations or flight delays can now demand greater compensation.  New EU rules set compensation at between 250 euros (£1...",
+    "Detected_Topic": "Politics",
+    "Summary": "The European Union has implemented new rules requiring airlines to offer compensation to passengers affected by overbooking, cancellations, or flight delays. The compensation ranges from 250 to 600 euros, depending on the flight length. Airlines have criticized the legislation, claiming it could lead to higher prices.",
+    "Key_Entities": [
+      "European Commission",
+      "European Low-fare Airlines Association",
+      "International Air Transport Association",
+      "Jacques Barrot",
+      "European Regions Airline Association",
+      "Ryanair",
+      "Marja Quillinan-Meiland",
+      "Andy Clarke",
+      "Michael Cawley"
+    ]
+  },
+  {
+    "Article_ID": 16,
+    "Title": "China keeps tight rein on credit",
+    "Article_Text": "China's efforts to stop the economy from overheating by clamping down on credit will continue into 2005, state media report.  The curbs were introduced earlier this year to ward off the risk that rapi...",
+    "Detected_Topic": "Business",
+    "Summary": "China is continuing to clamp down on credit to curb its overheating economy, which has seen rapid expansion and soaring prices. The government has a 7% growth target, but insists that the overshoot does not mean a 'hard landing'. China's low exchange rate has made its exports cheap on world markets.",
+    "Key_Entities": []
+  },
+  {
+    "Article_ID": 17,
+    "Title": "Parmalat boasts doubled profits",
+    "Article_Text": "Parmalat, the Italian food group at the centre of one of Europe's most painful corporate scandals, has reported a doubling in profit.  Its pre-tax earnings in the fourth quarter were 77m euros (£53m; ...",
+    "Detected_Topic": "Business",
+    "Summary": "Parmalat has reported a doubling in profit to 77m euros, but has also been fined 11m euros for violating takeover rules. The company's debt is close to 12bn euros, but its brands have continued to perform strongly. A complex financial position is being unwound through legal action.",
+    "Key_Entities": [
+      "Enrico Bondi",
+      "Morgan Stanley",
+      "Parmalat"
+    ]
+  },
+  {
+    "Article_ID": 18,
+    "Title": "India's rupee hits five-year high",
+    "Article_Text": "India's rupee has hit a five-year high after Standard & Poor's (S&P) raised the country's foreign currency rating.  The rupee climbed to 43.305 per US dollar on Thursday, up from a close of 43.41. The...",
+    "Detected_Topic": "Business",
+    "Summary": "India's rupee has reached a five-year high after Standard & Poor's raised its foreign currency rating, with the currency gaining almost 1% in the past three sessions.",
+    "Key_Entities": [
+      "Standard & Poor's",
+      "Bhanu Baweja",
+      "UBS",
+      "Romania",
+      "Egypt",
+      "El Salvador",
+      "Russia"
+    ]
+  },
+  {
+    "Article_ID": 19,
+    "Title": "India widens access to telecoms",
+    "Article_Text": "India has raised the limit for foreign direct investment in telecoms companies from 49% to 74%.  Communications Minister Dayanidhi Maran said that there is a need to fund the fast-growing mobile marke...",
+    "Detected_Topic": "Business",
+    "Summary": "India has raised its foreign direct investment limit in telecoms companies from 49% to 74% to fund the growing mobile market. The government aims to increase mobile users from 95 million to 200-250 million by 2007. Foreign investors need government approval to exceed 49% stake.",
+    "Key_Entities": [
+      "Dayanidhi Maran",
+      "India",
+      "Gartner",
+      "Kobita Desai",
+      "Ernst and Young",
+      "Sanjay Mehta",
+      "Morgan Stanley",
+      "Bharti Televentures",
+      "Singapore Telecom",
+      "Essar",
+      "Hutchison Whampoa",
+      "Sterling group",
+      "Tata group",
+      "Manmohan Singh"
+    ]
+  },
+  {
+    "Article_ID": 20,
+    "Title": "Call centre users 'lose patience'",
+    "Article_Text": "Customers trying to get through to call centres are getting impatient and quicker to hang up, a survey suggests.  Once past the welcome message, callers on average hang up after just 65 seconds of lis...",
+    "Detected_Topic": "Business",
+    "Summary": "A survey by Dimension Data found that customers are becoming increasingly impatient with call centres, hanging up after just 65 seconds of listening to canned music. The number of abandoned calls has increased, with a sixth of callers giving up, and poor training is a major issue, leading to a high churn rate and low resolution rates.",
+    "Key_Entities": [
+      "Cara Diemont",
+      "Dimension Data",
+      "IT firm",
+      "Europe",
+      "North America",
+      "India",
+      "South Africa"
+    ]
+  },
+  {
+    "Article_ID": 21,
+    "Title": "Rank 'set to sell off film unit'",
+    "Article_Text": "Leisure group Rank could unveil plans to demerge its film services unit and sell its media business, reports claim.  Rank, formerly famous for the Carry On series, will expose the shake-up at the anno...",
+    "Detected_Topic": "Business",
+    "Summary": "Leisure group Rank is considering demerging its film services unit and selling its media business, with Goldman Sachs valuing the demerged Deluxe Film unit at £300m. The move comes after the group has focused on fewer businesses and embarked on a major cost-cutting programme. Rank aims to concentrate on its gaming, bars and hotels business.",
+    "Key_Entities": [
+      "Rank",
+      "Goldman Sachs",
+      "Mike Smith",
+      "Grosvenor",
+      "Mecca Bingo",
+      "Hard Rock",
+      "Deluxe Films",
+      "Deluxe Media",
+      "Hollywood",
+      "UK",
+      "Pinewood",
+      "Odeon",
+      "Carry On",
+      "Sunday Telegraph"
+    ]
+  },
+  {
+    "Article_ID": 22,
+    "Title": "Sluggish economy hits German jobs",
+    "Article_Text": "The number of people out of work in Europe's largest economy has risen for the tenth straight month as growth remains stubbornly slow.  German unemployment rose 7,000 in November to 4.464 million peop...",
+    "Detected_Topic": "Business",
+    "Summary": "Germany's unemployment rate rose 7,000 in November to 10.8% of the workforce, with stagnant growth stifling the job market. The government has introduced measures to encourage job creation, including the 'one-euro jobs' scheme. High oil prices and the euro's value are also affecting the economy.",
+    "Key_Entities": [
+      "Frank-Juergen Weise",
+      "Gerhard Schroeder",
+      "Hypovereinsbank"
+    ]
+  },
+  {
+    "Article_ID": 23,
+    "Title": "Mixed signals from French economy",
+    "Article_Text": "The French economy picked up speed at the end of 2004, official figures show - but still looks set to have fallen short of the government's hopes.  According to state statistics body INSEE, growth for...",
+    "Detected_Topic": "Business",
+    "Summary": "The French economy experienced a 0.7-0.8% growth in the three months to December, surpassing the 0.6% forecast, according to INSEE statistics. This would be the best quarterly showing since early 2002, leaving GDP up 2.3% for the full year, short of the government's 2.5% target. The positive figures mark a trend of improving economic indicators, with the European Central Bank also expressing optimism for the eurozone.",
+    "Key_Entities": [
+      "INSEE",
+      "Deutsche Bank",
+      "European Central Bank",
+      "France"
+    ]
+  },
+  {
+    "Article_ID": 24,
+    "Title": "US trade gap hits record in 2004",
+    "Article_Text": "The gap between US exports and imports hit an all-time high of $671.7bn (£484bn) in 2004, latest figures show.  The Commerce Department said the trade deficit for all of last year was 24.4% above the ...",
+    "Detected_Topic": "Business",
+    "Summary": "The US trade deficit hit an all-time high of $671.7bn in 2004, with the deficit with China being the largest ever recorded with a single country. The deficit narrowed by 4.9% in December, but economists expect it to continue widening in 2005. The US consumer's appetite for imported goods reached record levels last year.",
+    "Key_Entities": [
+      "Marie-Pierre Ripert",
+      "US",
+      "China",
+      "IXIS",
+      "US",
+      "President Bush",
+      "US",
+      "China",
+      "US"
+    ]
+  },
+  {
+    "Article_ID": 25,
+    "Title": "Yukos loses US bankruptcy battle",
+    "Article_Text": "A judge has dismissed an attempt by Russian oil giant Yukos to gain bankruptcy protection in the US.  Yukos filed for Chapter 11 protection in Houston in an unsuccessful attempt to halt the auction of...",
+    "Detected_Topic": "Business",
+    "Summary": "A US judge has dismissed Yukos' attempt to gain bankruptcy protection in the US, ruling that the company did not have enough US presence to establish jurisdiction. Yukos had sought to halt the auction of its Yugansk division, which was sold to pay off $27.5bn in unpaid taxes. The company claims the sale was illegal and is seeking damages.",
+    "Key_Entities": [
+      "Mikhail Khodorkovsky",
+      "Yukos",
+      "Rosneft",
+      "Letitia Clark",
+      "Bruce Misamore",
+      "Steven Theede",
+      "Deutsche Bank",
+      "Gazprom",
+      "Gazpromneft",
+      "European Court of Human Rights",
+      "Russia",
+      "United States",
+      "Houston",
+      "Texas",
+      "Yugansk"
+    ]
+  },
+  {
+    "Article_ID": 26,
+    "Title": "Safety alert as GM recalls cars",
+    "Article_Text": "The world's biggest carmaker General Motors (GM) is recalling nearly 200,000 vehicles in the US on safety grounds, according to federal regulators.  The National Highway Traffic Safety Administration ...",
+    "Detected_Topic": "Business",
+    "Summary": "General Motors is recalling nearly 200,000 vehicles in the US due to potential malfunctions with the braking systems, including 155,465 pickups and SUVs from the 2004 and 2005 model years. The recall also affects 19,924 Cadillac XLR coupes and 17,815 Buick Raniers. GM stressed that it did not know of any injuries related to the problems.",
+    "Key_Entities": [
+      "General Motors",
+      "National Highway Traffic Safety Administration",
+      "Chevrolet",
+      "GMC",
+      "Cadillac",
+      "Buick",
+      "Isuzu",
+      "Europe",
+      "North America"
+    ]
+  },
+  {
+    "Article_ID": 27,
+    "Title": "Steel firm 'to cut' 45,000 jobs",
+    "Article_Text": "Mittal Steel, one of the world's largest steel producers, could cut up to 45,000 jobs over the next five years, its chief executive has said.  The Netherlands-based company is due to complete its $4.5...",
+    "Detected_Topic": "Business",
+    "Summary": "Mittal Steel, a global steel producer, may cut up to 45,000 jobs over the next five years as part of its acquisition of US firm ISG, according to its CEO Lakshmi Mittal. The company aims to reduce its workforce by 7,000 to 8,000 annually. The acquisition is expected to create a combined company with annual sales of $32bn and a production capacity of 70 million tonnes.",
+    "Key_Entities": [
+      "Lakshmi Mittal",
+      "LNM Holdings",
+      "International Steel Group",
+      "ISG",
+      "Mittal Steel",
+      "Chicago",
+      "Kazakhstan",
+      "Romania",
+      "Czech Republic",
+      "South Africa",
+      "United States"
+    ]
+  },
+  {
+    "Article_ID": 28,
+    "Title": "Strong demand triggers oil rally",
+    "Article_Text": "Crude oil prices surged back above the $47 a barrel mark on Thursday after an energy market watchdog raised its forecasts for global demand.  The International Energy Agency (IEA) warned demand for Op...",
+    "Detected_Topic": "Business",
+    "Summary": "Crude oil prices surged back above $47 a barrel mark after the International Energy Agency raised its forecasts for global demand. The IEA warned demand for Opec's crude in the first quarter would outstrip supply. The price increase was also driven by weaker Russian oil giant Yukos and lower US crude supplies.",
+    "Key_Entities": [
+      "International Energy Agency",
+      "Opec",
+      "Orin Middleton",
+      "Barclays Capital",
+      "Russia",
+      "China"
+    ]
+  },
+  {
+    "Article_ID": 29,
+    "Title": "UK firm faces Venezuelan land row",
+    "Article_Text": "Venezuelan authorities have said they will seize land owned by a British company as part of President Chavez's agrarian reform programme.  Officials in Cojedes state said on Friday that farmland owned...",
+    "Detected_Topic": "Politics",
+    "Summary": "Venezuelan authorities plan to seize land owned by the Vestey Group as part of President Chavez's agrarian reform programme, citing idle large rural estates. The government claims the company does not possess valid documents proving its ownership of the land. The Vestey Group insists it has complied with Venezuelan law and will cooperate with the authorities.",
+    "Key_Entities": [
+      "Vestey Group",
+      "Alexis Ortiz",
+      "President Chavez",
+      "Venezuela",
+      "Cojedes state",
+      "Agroflora",
+      "Hato El Charcote"
+    ]
+  },
+  {
+    "Article_ID": 30,
+    "Title": "Soaring oil 'hits world economy'",
+    "Article_Text": "The soaring cost of oil has hit global economic growth, although world's major economies should weather the storm of price rises, according to the OECD.  In its latest bi-annual report, the OECD cut i...",
+    "Detected_Topic": "Business",
+    "Summary": "The OECD has cut its growth predictions for major economies due to soaring oil costs, but believes the global economy can regain momentum. Global growth is forecast to reach 3.6% in 2004 and 2.9% in 2005. A dip in oil prices and improving jobs prospects are expected to boost consumer confidence and spending.",
+    "Key_Entities": [
+      "OECD",
+      "Jean-Philippe Cotis",
+      "Vincent Koen",
+      "Germany",
+      "Europe",
+      "North America",
+      "China",
+      "Japan"
+    ]
+  }
+]
