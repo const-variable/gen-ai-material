@@ -1,4 +1,4 @@
-# gen-ai-material
+# gen-ai-assignment
 
 ## why local Ollama SLMs instead of a hosted API
 
