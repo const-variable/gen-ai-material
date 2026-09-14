@@ -26,6 +26,8 @@ what's actually happening in the notebook:
 - at the end it checks how often the model's predicted topic actually matches the original dataset label (was getting ~83% agreement on the test sample)
 - exports everything to both csv and a clean JSON file (article id, title, trimmed text, topic, summary, entities)
 
+**bonus task:** the assignment's bonus was to run the pipeline over the full dataset instead of just a sample — `NUM_ARTICLES = None` processes all **2,225 articles** (not a subset), and `bbc_news_analysis_output.json` is the resulting output with every record included.
+
 tldr: local SLMs + LangChain chains + smart batching so you can process a whole dataset without burning API credits or waiting forever.
 
 ## part2 — Job Postings Analysis with LangChain + Ollama
