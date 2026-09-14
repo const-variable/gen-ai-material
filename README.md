@@ -1,5 +1,16 @@
 # gen-ai-material
 
+## why local Ollama SLMs instead of a hosted API
+
+Both parts of this assignment run entirely on **local small language models via Ollama** instead of a hosted API like Groq. Groq's free tier has fairly tight per-minute/per-day token and request limits, and this assignment means running an LLM over every row of a dataset (2,225 news articles in part_1, and job postings in part2) — a run of that size blows through those limits fast and the job just dies partway through. Going local with Ollama sidesteps that entirely: no rate limits, no API keys, no cost, and the run can go as long as it needs to.
+
+The tradeoff is raw speed (CPU-only local inference is slower per-call than a hosted API), which is why both notebooks lean on a few tricks to make full-dataset runs practical:
+- **two-tier models** — a tiny/fast model (`llama3.2:1b`) for cheap one-word-ish outputs (classification), a bigger model (`llama3.2:3b`) for tasks that need more reasoning (summarization, entity/requirement extraction)
+- **combined calls** — instead of separate LLM calls per task, all tasks for a given row are merged into **one call per record**, cutting total calls ~3x
+- **checkpointing** — results are saved to CSV periodically (every 100 rows) so a multi-hour run survives a crash instead of losing everything
+- **capped input length** — long text gets clipped before being sent to the model to keep generation fast
+- **fallback parsing** — if the combined call returns malformed JSON, the code falls back to the individual per-task chains for just that row instead of failing the whole run
+
 ## part_1 — BBC News Analysis with LangChain + Ollama
 
 so the goal here was to run topic classification + summarization + entity extraction on the entire BBC news dataset (2,225 articles) without dying from API rate limits, so went full local with Ollama instead of hitting a paid API.
